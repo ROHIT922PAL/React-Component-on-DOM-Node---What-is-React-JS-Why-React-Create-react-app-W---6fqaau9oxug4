@@ -4,7 +4,8 @@ import App from "./components/App";
 
 function App() {
   render() {
-    return <h1> hi</h1>;
+    return <p>Now I can render any React component on any DOM node I want using ReactDOM.render</p> ;
+  
   }
 }
 ReactDOM.render(     
