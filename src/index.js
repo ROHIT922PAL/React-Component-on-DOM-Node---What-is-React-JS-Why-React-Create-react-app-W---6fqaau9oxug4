@@ -4,7 +4,7 @@ import App from "./components/App";
 
 function App() {
   render() {
-    return (<h1> hi</h1>);
+    return <h1> hi</h1>;
   }
 }
 ReactDOM.render(     
